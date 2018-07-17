@@ -1,0 +1,12 @@
+body {
+  background-color: #eee;
+  text-align: center;
+  color: #444; }
+
+.geocode-result {
+  width: 500px;
+  margin: 0 auto;
+  text-align: left; }
+
+.map {
+  height: 400px; }
